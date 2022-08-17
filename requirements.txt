@@ -1,0 +1,2 @@
+aiogram~=2.14
+environs~=8.0.0bs4~=0.0.1requests~=2.28.0
